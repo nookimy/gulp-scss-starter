@@ -1,2 +1,2 @@
-# minipack
+# gulp-scss-starter
 Стартовый проект для небольших правок
